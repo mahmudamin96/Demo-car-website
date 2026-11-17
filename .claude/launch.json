@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "veyra-dev",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--dir", "Demo-interactive-car", "dev"],
+      "port": 5220,
+      "url": "http://127.0.0.1:5220"
+    }
+  ]
+}
